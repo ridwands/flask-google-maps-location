@@ -1,0 +1,7 @@
+class Config:
+    MYSQL_DATABASE_HOST = '172.17.0.2'
+    MYSQL_DATABASE_USER= 'root'
+    MYSQL_DATABASE_PASSWORD = '123'
+    MYSQL_DATABASE_DB= 'gmaps_flask'
+
+    API_KEY="YOUR_API_KEY"
