@@ -1,5 +1,7 @@
 # flask-google-maps-location
 
+![alt text](https://github.com/ridwands/flask-google-maps-location/blob/master/preview.png?raw=true)
+
 ## Create API KEY AND Enable MAPS JAVASCRIPT API
 ```
 https://developers.google.com/maps/documentation/javascript/get-api-key?hl=id
@@ -22,3 +24,4 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
