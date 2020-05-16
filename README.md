@@ -1,13 +1,14 @@
 # flask-google-maps-location
 
-## Create API KEY
+## Create API KEY AND Enable MAPS JAVASCRIPT API
 ```
-https://developers.google.com/maps/documentation/embed/get-api-key
+https://developers.google.com/maps/documentation/javascript/get-api-key?hl=id
 ```
 Put API KEY to config.py
 ```
 API_KEY="YOUR_API_KEY"
 ```
+
 ## Change Your Location Latitude And Longitude
 Go to templates/index.html and change it
 ```
